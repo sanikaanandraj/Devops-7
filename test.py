@@ -1,1 +1,1 @@
-print("Sanika Anandraj, Sathvik Mourya")
+print("Sanika Anandraj, Sathvik")
